@@ -28,7 +28,7 @@ function displayAlertFun(){
 
 // // another answer using querySelector
 // function displayAlertFun(){
-//   var correctAnswer = 'option1'
+//   var correctAnswer = 'Baghdad'
 //   var answer = document.querySelector('input[name="choice"]:checked').value;
 //   (answer === correctAnswer)
 //     ? alert("Correct Answerr")
